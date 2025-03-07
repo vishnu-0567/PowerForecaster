@@ -1,4 +1,4 @@
-# HOMEBAP ⚡️
+# PowerForecaster
 <h2><u>Hom</u>e <u>E</u>lectricity <u>B</u>ill <u>A</u>mount <u>P</u>redictor</h2>
 
 <h4> To run the application: </h4>
