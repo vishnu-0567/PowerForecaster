@@ -52,7 +52,7 @@
 <img src="https://drive.google.com/file/d/1-4Lvqw6ERL2_9xR3Lkt13_7quP6jR3ZT/view?usp=sharing">
 
 <h3>Prediction Model Page :</h3>
-<img src="https://drive.google.com/file/d/14E6Wux7ftPtTWAofD7RykxRHQJDPIbUn/view?usp=sharing">
+<img src="https://github.com/vishnu-0567/PowerForecaster/blob/main/photos/Screenshot%202025-03-20%20002006.png">
 
 <h3>Prediction Result Page :</h3>
 <img src="https://drive.google.com/file/d/1QZxmKRHlQi0dDh4VafUbRZAglBYMbsWb/view?usp=sharing">
