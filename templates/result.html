@@ -3,7 +3,78 @@
 <html>
     <head>
         <title>PowerForecaster</title>
-        <link rel="stylesheet" type="text/css" href="static/styles.css">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f0f2f5;
+                margin: 0;
+                padding: 20px;
+            }
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                background: white;
+                padding: 30px;
+                border-radius: 10px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            }
+            h1 {
+                color: #1a73e8;
+                text-align: center;
+                margin-bottom: 20px;
+            }
+            h2 {
+                color: #5f6368;
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 1.2em;
+            }
+            .result-value {
+                color: #1a73e8;
+                font-size: 2em;
+                text-align: center;
+                margin: 30px 0;
+                padding: 20px;
+                background: #e8f0fe;
+                border-radius: 10px;
+            }
+            .result-section {
+                margin-top: 20px;
+            }
+            .result-section ul {
+                list-style-type: none;
+                padding: 0;
+            }
+            .result-section li {
+                padding: 10px 0;
+                border-bottom: 1px solid #eee;
+                color: #5f6368;
+            }
+            .result-section li:first-child {
+                color: #1a73e8;
+                font-size: 1.2em;
+                border-bottom: 2px solid #1a73e8;
+            }
+            input[type="submit"] {
+                background-color: #1a73e8;
+                color: white;
+                padding: 12px 24px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+                margin-top: 20px;
+                width: 100%;
+            }
+            input[type="submit"]:hover {
+                background-color: #1557b0;
+            }
+            hr {
+                border: none;
+                border-top: 1px solid #eee;
+                margin: 20px 0;
+            }
+        </style>
     </head>
     
     <body>
