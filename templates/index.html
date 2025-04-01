@@ -2,7 +2,93 @@
 <html>
     <head>
         <title>Login Page</title>
-        <link rel="stylesheet" href="static/styles.css">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f0f2f5;
+                margin: 0;
+                padding: 20px;
+            }
+            .container {
+                max-width: 500px;
+                margin: 0 auto;
+                background: white;
+                padding: 30px;
+                border-radius: 10px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            }
+            h1 {
+                color: #1a73e8;
+                text-align: center;
+                margin-bottom: 20px;
+            }
+            h2 {
+                color: #5f6368;
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 1.2em;
+            }
+            form {
+                display: flex;
+                flex-direction: column;
+                gap: 15px;
+            }
+            label {
+                font-weight: bold;
+                color: #5f6368;
+            }
+            input[type="text"],
+            input[type="password"],
+            input[type="email"] {
+                padding: 10px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                font-size: 16px;
+            }
+            input[type="submit"] {
+                background-color: #1a73e8;
+                color: white;
+                padding: 12px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+                margin-top: 10px;
+            }
+            input[type="submit"]:hover {
+                background-color: #1557b0;
+            }
+            .error {
+                color: #d93025;
+                text-align: center;
+                margin-top: 10px;
+            }
+            .redirect-link {
+                text-align: center;
+                margin-top: 20px;
+            }
+            .redirect-link a {
+                color: #1a73e8;
+                text-decoration: none;
+            }
+            .redirect-link a:hover {
+                text-decoration: underline;
+            }
+            .electricity-section {
+                margin-top: 30px;
+                text-align: center;
+                padding: 20px;
+                background: #e8f0fe;
+                border-radius: 10px;
+            }
+            .electricity-section h2 {
+                color: #1a73e8;
+                margin-bottom: 10px;
+            }
+            .electricity-section p {
+                color: #5f6368;
+            }
+        </style>
     </head>
     
     <body>
@@ -13,11 +99,10 @@
 
                 <label for="email">Email:</label>
                 <input type="text" id="email" name="email" required>
-
-
+<br>
                 <label for="password">Password:</label>
                 <input type="password" id="password" name="password" required>
-
+<br>
                 <input type="submit" value="Log in">
             </form>
 
