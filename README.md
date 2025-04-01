@@ -37,23 +37,23 @@
 
 <h2> --- ML Model --- </h2>
 <h3> Prediction Result : </h3>
-<img src="https://github.com/SheriffAbdullah/HOMEBAP/assets/94511829/98746fd5-7ead-4b2d-a278-db40499c84ab.png" width=700>
+<img src="https://drive.google.com/file/d/1UneTvbRYInRKkFJEThjmxklBhO1V1X-Q/view?usp=sharing" width=700>
 
 <h3> Top 3 Model Accuracies :</h3>
-<img src="https://github.com/SheriffAbdullah/HOMEBAP/assets/94511829/10822e50-6a34-4507-aec6-349bdd8e38fb.png" width=700>
+<img src="https://drive.google.com/file/d/1TW-WXa63CAHgT6pcbgxqL9_gWerObGPq/view?usp=drive_link" width=700>
 
 <br> 
 
 <h2> --- Website Preview --- </h2>
 <h3>Landing / Login Page :</h3>
-<img src="https://user-images.githubusercontent.com/94511829/231564170-e395522c-6202-47aa-9ce5-c2a615c512a2.png">
+<img src="https://drive.google.com/file/d/1-4Lvqw6ERL2_9xR3Lkt13_7quP6jR3ZT/view?usp=sharing">
 
 <h3>Sign-up Page :</h3>
-<img src="https://user-images.githubusercontent.com/94511829/231564002-2eb02840-182b-4eea-861c-0776d44a6628.png">
+<img src="https://drive.google.com/file/d/1-4Lvqw6ERL2_9xR3Lkt13_7quP6jR3ZT/view?usp=sharing">
 
 <h3>Prediction Model Page :</h3>
-<img src="https://user-images.githubusercontent.com/94511829/231564679-f2cabfc7-3ad4-454b-bc31-70f32a63a689.png">
+<img src="https://drive.google.com/file/d/14E6Wux7ftPtTWAofD7RykxRHQJDPIbUn/view?usp=sharing">
 
 <h3>Prediction Result Page :</h3>
-<img src="https://user-images.githubusercontent.com/94511829/234301887-e231e767-c2ec-4764-8d17-e62b925e7d98.png">
+<img src="https://drive.google.com/file/d/1QZxmKRHlQi0dDh4VafUbRZAglBYMbsWb/view?usp=sharing">
 
