@@ -37,23 +37,23 @@
 
 <h2> --- ML Model --- </h2>
 <h3> Prediction Result : </h3>
-<img src="https://drive.google.com/file/d/1UneTvbRYInRKkFJEThjmxklBhO1V1X-Q/view?usp=sharing" width=700>
+<img src="https://github.com/vishnu-0567/PowerForecaster/blob/main/photos/Screenshot 2025-04-01 222826.png" width=700>
 
 <h3> Top 3 Model Accuracies :</h3>
-<img src="https://drive.google.com/file/d/1TW-WXa63CAHgT6pcbgxqL9_gWerObGPq/view?usp=drive_link" width=700>
+<img src="https://github.com/vishnu-0567/PowerForecaster/blob/main/photos/Screenshot 2025-04-01 222841.png" width=700>
 
 <br> 
 
 <h2> --- Website Preview --- </h2>
 <h3>Landing / Login Page :</h3>
-<img src="https://drive.google.com/file/d/1-4Lvqw6ERL2_9xR3Lkt13_7quP6jR3ZT/view?usp=sharing">
+<img src="https://github.com/vishnu-0567/PowerForecaster/blob/main/photos/Screenshot 2025-04-01 220103.png">
 
 <h3>Sign-up Page :</h3>
-<img src="https://drive.google.com/file/d/1-4Lvqw6ERL2_9xR3Lkt13_7quP6jR3ZT/view?usp=sharing">
+<img src="https://github.com/vishnu-0567/PowerForecaster/blob/main/photos/Screenshot 2025-04-01 220136.png">
 
 <h3>Prediction Model Page :</h3>
 <img src="https://github.com/vishnu-0567/PowerForecaster/blob/main/photos/Screenshot%202025-03-20%20002006.png">
 
 <h3>Prediction Result Page :</h3>
-<img src="https://drive.google.com/file/d/1QZxmKRHlQi0dDh4VafUbRZAglBYMbsWb/view?usp=sharing">
+<img src="https://github.com/vishnu-0567/PowerForecaster/blob/main/photos/Screenshot 2025-04-01 220442.png">
 
