@@ -3,7 +3,71 @@
 <html>
     <head>
         <title>PowerForecaster - Electricity Bill Amount Predictor</title>
-        <link rel="stylesheet" type="text/css" href="static/styles.css">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                background-color: #f0f2f5;
+                margin: 0;
+                padding: 20px;
+            }
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                background: white;
+                padding: 30px;
+                border-radius: 10px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            }
+            h1 {
+                color: #1a73e8;
+                text-align: center;
+                margin-bottom: 20px;
+            }
+            h2 {
+                color: #5f6368;
+                text-align: center;
+                margin-bottom: 30px;
+                font-size: 1.2em;
+            }
+            form {
+                display: flex;
+                flex-direction: column;
+                gap: 15px;
+            }
+            label {
+                font-weight: bold;
+                color: #5f6368;
+                margin-top: 10px;
+            }
+            input[type="number"],
+            select {
+                padding: 10px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                font-size: 16px;
+                margin-bottom: 5px;
+            }
+            input[type="submit"] {
+                background-color: #1a73e8;
+                color: white;
+                padding: 12px;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                font-size: 16px;
+                margin-top: 20px;
+            }
+            input[type="submit"]:hover {
+                background-color: #1557b0;
+            }
+            select {
+                width: 100%;
+                background-color: white;
+            }
+            ::placeholder {
+                color: #999;
+            }
+        </style>
     </head>
     <body>
         <div class="container">
