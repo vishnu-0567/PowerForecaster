@@ -16,12 +16,12 @@ import EncryptionLibrary
 local_mysql_credentials = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'YourPassword',
-    'database': 'YourDatabase'
+    'password': 'root',
+    'database': 'powerforecaster'
 }
 
-# USE this code to Create your own local credentials
-# pickle.dump(local_mysql_credentials, open("local_mysql_credentials.pkl", 'wb'))
+# Create the credentials file
+pickle.dump(local_mysql_credentials, open("local_mysql_credentials.pkl", 'wb'))
     
 # Load MySQL Credentials
 local_mysql_creds = pickle.load(open('local_mysql_credentials.pkl', 'rb'))
